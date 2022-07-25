@@ -105,6 +105,8 @@
   &emsp;
    <a href="#"><img alt="BASH" src="https://img.shields.io/badge/BASH%20-%23F05033.svg?style=plastic&logo=bash&logoColor=white"></a>
   &emsp;
+   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23F05033.svg?style=plastic&logo=flask&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
