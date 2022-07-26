@@ -17,7 +17,7 @@
 - :computer: I love working with `Linux`, `Smarthome` and writing my own `little useful programs`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I'm currently `not` open for a new job
-- :nerd_face: `Online Privacy` is important
+- :nerd_face: Used to PRINCE2, Agile Working with SCRUM, Kanban etc
 
 <br>
 
