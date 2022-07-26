@@ -30,6 +30,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
+<a href="https://hub.docker.com/u/platofan23"><img src="https://img.shields.io/badge/Dockerhub-blue.svg?style=plastic&logo=docker&logoColor=white" alt="GitHub"/></a>
 	<a href="https://github.com/platofan23"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="mailto:j-develop@tutanota.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	        <a href="https://www.instagram.com/joel_13_12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -44,7 +45,11 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p align="center">
+  &emsp;
+  <a href="https://www.arduino.cc/">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-028E8D.svg?style=plastic&logo=Arduino&logoColor=white">
+  </a>
   &emsp;
   <a href="https://www.linux-community.de/ausgaben/linuxuser/2000/12/teil-1-grundlagen-der-bash/">
     <img alt="BASH" src="https://img.shields.io/badge/BASH-3E474A.svg?style=plastic&logo=GNU Bash&logoColor=white">
@@ -136,6 +141,14 @@
    <img alt="JQuery" src="https://img.shields.io/badge/JQuery-FEFEFE.svg?&style=plastic&logo=JQuery&logoColor=1169AE">
   </a>
   &emsp;
+  <a href="https://www.javatpoint.com/java-bean">
+   <img alt="JavaBeans" src="https://img.shields.io/badge/JavaBeans-5281A0.svg?&style=plastic&logo=OpenJDK&logoColor=1169AE">
+  </a>
+  &emsp;
+  <a href="https://www.javatpoint.com/servlet-tutorial">
+   <img alt="Java Servlets" src="https://img.shields.io/badge/Java%20Servlets-5281A0.svg?&style=plastic&logo=OpenJDK&logoColor=1169AE">
+  </a>
+  &emsp;
   <a href="https://www.selenium.dev/">
    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white">
   </a>
@@ -171,6 +184,10 @@
   &emsp;
   <a href="https://docs.docker.com/engine/reference/builder/">
    <img alt="Dockerfile" src="https://img.shields.io/badge/Dockerfile-blue.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://hub.docker.com/">
+   <img alt="Dockerhub" src="https://img.shields.io/badge/Dockerhub-blue.svg?style=plastic&logo=docker&logoColor=white">
   </a>
   &emsp;
   <a href="https://git-scm.com/">
@@ -217,6 +234,10 @@
  ### 👉 IDEs
  
 <p align="center">
+  &emsp;
+  <a href="https://www.arduino.cc/">
+    <img alt="Arduino-IDE" src="https://img.shields.io/badge/Arduino%20IDE-028E8D.svg?style=plastic&logo=Arduino&logoColor=white">
+  </a>
   &emsp;
   <a href="https://atom.io/">
    <img alt="Atom" src="https://img.shields.io/badge/Atom-EED9B7.svg?&style=plastic&logo=atom&logoColor=white"/> 
