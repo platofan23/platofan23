@@ -77,9 +77,13 @@
 
 ### 👉 Frontend Development
 <p align="center"> 
-    &emsp;
+  &emsp;
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-C3002F.svg?style=plastic&logo=angular&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7809F7.svg?style=plastic&logo=Bootstrap&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -108,6 +112,10 @@
     <img alt="AVRO" src="https://img.shields.io/badge/Apache%20Avro-1E3052.svg?style=plastic&logo=Apache&logoColor=white">
   </a>
   &emsp;
+  <a href="https://en.wikipedia.org/wiki/Comma-separated_values">
+    <img alt="CSV" src="https://img.shields.io/badge/CSV-1E3052.svg?style=plastic&logo=Microsoft Excel&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.json.org/json-en.html">
    <img alt="JSON" img src="https://img.shields.io/badge/JSON-373737.svg?style=plastic&logo=json&logoColor=white">
   </a>
@@ -128,6 +136,10 @@
    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white">
   </a>
   &emsp;
+  <a href="https://socket.io/">
+   <img alt="Socket" src="https://img.shields.io/badge/Socket-black.svg?&style=plastic&logo=Socket.IO&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://spring.io/projects/spring-boot">
    <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white">
   </a>
@@ -138,7 +150,7 @@
 <p align="center">
   &emsp;
   <a href="https://www.w3schools.com/js/js_ajax_intro.asp">
-   <img alt="Ajax" src="https://img.shields.io/badge/Ajax2%20-%23F05033.svg?style=plastic&logo=W3C&logoColor=white">
+   <img alt="Ajax" src="https://img.shields.io/badge/Ajax-%23F05033.svg?style=plastic&logo=W3C&logoColor=white">
   </a>
   &emsp;
   <a href="https://httpd.apache.org/">
@@ -165,6 +177,14 @@
    <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white">
   </a>
   &emsp;
+  <a href="https://grafana.com/">
+   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F27622.svg?style=plastic&logo=Grafana&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.home-assistant.io/">
+   <img alt="Home Assistant" src="https://img.shields.io/badge/Home%20Assistant-53C0F1.svg?style=plastic&logo=Home Assistant&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://kafka.apache.org/">
    <img alt="Apache Kafka" img src="https://img.shields.io/badge/Apache%20Kafka-CDCBC9.svg?style=plastic&logo=Apache Kafka&logoColor=black">
   </a>
@@ -183,6 +203,10 @@
   &emsp;
   <a href="https://stackoverflow.com/">
    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-323232?style=plastic&logo=stack-overflow&logoColor=763C0D">
+  </a>
+  &emsp;
+  <a href="https://yaml.org/">
+   <img alt="YAML" src="https://img.shields.io/badge/YAML-black?style=plastic&logo=XAML&logoColor=763C0D">
   </a>
 </p>
 
@@ -225,8 +249,6 @@
 <br/>
 
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
