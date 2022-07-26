@@ -244,7 +244,7 @@
   </a>
   &emsp;
   <a href="https://www.eclipse.org/">
-   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20ide-6E3E04.svg?&style=plastic&logo=eclipse%20ide&logoColor=white"/>
+   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-6E3E04.svg?&style=plastic&logo=eclipse%20ide&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.jetbrains.com/">
