@@ -46,6 +46,10 @@
 
 <p align="center"> 
   &emsp;
+  <a href="https://www.linux-community.de/ausgaben/linuxuser/2000/12/teil-1-grundlagen-der-bash/">
+    <img alt="BASH" src="https://img.shields.io/badge/BASH-3E474A.svg?style=plastic&logo=GNU Bash&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-5281A0.svg?style=plastic&logo=OpenJDK&logoColor=orange">
   </a>
@@ -82,12 +86,14 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS-304CDE.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp; 
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?style=plastic&logo=flask&logoColor=black"></a>
+  &emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-D35837.svg?style=plastic&logo=html5&logoColor=white">
   </a>     
   &emsp;
   <a href="https://openjfx.io/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/JavaFX%-53829E.svg?style=plastic&logo=OpenJDK&logoColor=white">
+    <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-53829E.svg?style=plastic&logo=OpenJDK&logoColor=white">
   </a> 
   &emsp;
   <a href="https://sapui5.hana.ondemand.com/" target="_blank">
@@ -95,43 +101,89 @@
   </a>  
 </p>
 
- ### 👉 Frameworks
+### 👉 Datenformate
+<p align="center">
+  &emsp;
+  <a href="https://avro.apache.org/">
+    <img alt="AVRO" src="https://img.shields.io/badge/Apache%20Avro-1E3052.svg?style=plastic&logo=Apache&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.json.org/json-en.html">
+   <img alt="JSON" img src="https://img.shields.io/badge/JSON-373737.svg?style=plastic&logo=json&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/xml/xml_whatis.asp">
+   <img alt="XML" img src="https://img.shields.io/badge/XML-005EAE.svg?style=plastic&logo=W3C&logoColor=white">
+  </a>
+</p>
+
+ ### 👉 Frameworks and Libaries
+<p align="center">
+  &emsp;
+  <a href="https://jquery.com/">
+   <img alt="JQuery" src="https://img.shields.io/badge/JQuery-FEFEFE.svg?&style=plastic&logo=JQuery&logoColor=1169AE">
+  </a>
+  &emsp;
+  <a href="https://www.selenium.dev/">
+   <img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://spring.io/projects/spring-boot">
+   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white">
+  </a>
+</p>
 
  ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Apache2" src="https://img.shields.io/badge/Apache2%20-%23F05033.svg?style=plastic&logo=apache2&logoColor=white"></a>
+  <a href="https://www.w3schools.com/js/js_ajax_intro.asp">
+   <img alt="Ajax" src="https://img.shields.io/badge/Ajax2%20-%23F05033.svg?style=plastic&logo=W3C&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="AVRO" src="https://img.shields.io/badge/Apache Avro%20-%23F05033.svg?style=plastic&logo=avro&logoColor=white"></a>
+  <a href="https://httpd.apache.org/">
+   <img alt="Apache Apache2" src="https://img.shields.io/badge/Apache%20Apache2-621424.svg?style=plastic&logo=Apache&logoColor=white">
+  </a>
   &emsp;
-   <a href="#"><img alt="BASH" src="https://img.shields.io/badge/BASH%20-%23F05033.svg?style=plastic&logo=bash&logoColor=white"></a>
+  <a href="https://www.docker.com/">
+   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
   &emsp;
-   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue.svg?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="https://docs.docker.com/compose/">
+   <img alt="Docker-Compose" src="https://img.shields.io/badge/Docker%20Compose-blue.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23F05033.svg?style=plastic&logo=flask&logoColor=white"></a>
+  <a href="https://docs.docker.com/engine/reference/builder/">
+   <img alt="Dockerfile" src="https://img.shields.io/badge/Dockerfile-blue.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="https://git-scm.com/">
+   <img alt="Git" src="https://img.shields.io/badge/Git-964934.svg?style=plastic&logo=git&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://github.com/">
+   <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  <a href="https://kafka.apache.org/">
+   <img alt="Apache Kafka" img src="https://img.shields.io/badge/Apache%20Kafka-CDCBC9.svg?style=plastic&logo=Apache Kafka&logoColor=black">
+  </a>
   &emsp;
-    <a href="#"><img alt="Kafka" img src="https://img.shields.io/badge/Kafka-%23000000.svg?style=plastic&logo=kafka&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/">
+   <img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  <a href="https://maven.apache.org/">
+   <img alt="Apache Maven" img src="https://img.shields.io/badge/Apache%20Maven-%23000000.svg?style=plastic&logo=Apache Maven&logoColor=white">
+  </a>
   &emsp;
-   <a href="#"><img alt="Maven" img src="https://img.shields.io/badge/Maven-%23000000.svg?style=plastic&logo=maven&logoColor=white"></a>
+  <a href="http://www.squid-cache.org/">
+   <img alt="SQUID%20Proxy" src="https://img.shields.io/badge/SQUID%20Proxy-4CB5D2?style=plastic&logo=TurboSquid&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring%20Boot-FE7A16?style=plastic&logo=spring-boot&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="SQUID" src="https://img.shields.io/badge/-SQUID-FE7A16?style=plastic&logo=squid&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&  logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="XML" src="https://img.shields.io/badge/-XML-FE7A16?style=plastic&logo=xml&logoColor=white"></a>
+  <a href="https://stackoverflow.com/">
+   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-323232?style=plastic&logo=stack-overflow&logoColor=763C0D">
+  </a>
 </p>
 
  ### 👉 IDEs
