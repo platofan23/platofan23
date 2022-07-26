@@ -109,7 +109,7 @@
   </a>  
 </p>
 
-### 👉 Datenformate
+### 👉 Data formats
 <p align="center">
   &emsp;
   <a href="https://avro.apache.org/">
