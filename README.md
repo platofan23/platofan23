@@ -47,27 +47,27 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?style=plastic&logo=JAVA&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-5281A0.svg?style=plastic&logo=OpenJDK&logoColor=orange">
   </a>
   &emsp; 
   <a href="https://developer.mozilla.org/de-DE/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DE1F.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
      <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-inactive.svg?style=plastic&logo=php&logoColor=black">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-C9CBFB.svg?style=plastic&logo=php&logoColor=black">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FBFBFB.svg?style=plastic&logo=python&logoColor=366E9D">
   </a>
     &emsp;
-   <a href="https://www.startpage.com/do/dsearch?query=sql&cat=web&pl=ext-ff&language=english&extVersion=1.0.1" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-inactive.svg?style=plastic&logo=sql&logoColor=black">
+   <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-FFFFFF.svg?style=plastic&logo=MySQL&logoColor=1C668E">
   </a>
   &emsp; 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-blue.svg?style=plastic&logo=typescript&logoColor=black">
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=typescript&logoColor=FEFEFE">
    </a>
 </p>
 
@@ -75,25 +75,27 @@
 <p align="center"> 
     &emsp;
   <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-red.svg?style=plastic&logo=angular&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-C3002F.svg?style=plastic&logo=angular&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-304CDE.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-D35837.svg?style=plastic&logo=html5&logoColor=white">
   </a>     
   &emsp;
   <a href="https://openjfx.io/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/JavaFX%20-lightgrey.svg?style=plastic&logo=javafx&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/JavaFX%-53829E.svg?style=plastic&logo=OpenJDK&logoColor=white">
   </a> 
   &emsp;
   <a href="https://sapui5.hana.ondemand.com/" target="_blank">
-    <img alt="SAPUI5" src="https://img.shields.io/badge/SAPUI5%20-orange.svg?style=plastic&logo=sapui5&logoColor=white">
+    <img alt="SAPUI5" src="https://img.shields.io/badge/SAPUI5-FF5016.svg?style=plastic&logo=SAP&logoColor=white">
   </a>  
 </p>
+
+ ### 👉 Frameworks
 
  ### 👉 Software & Tools
  
@@ -181,7 +183,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/platofan23"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=platofan23&custom_title=platofan23's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/platofan23"><img alt="platofan23's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=platofan23&custom_title=platofan23's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
