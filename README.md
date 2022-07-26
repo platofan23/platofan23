@@ -94,7 +94,11 @@
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-D35837.svg?style=plastic&logo=html5&logoColor=white">
-  </a>     
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en/" target="_blank"> 
+   <img alt="Node.jS" src="https://img.shields.io/badge/Node.js-77B161.svg?style=plastic&logo=Node.js&logoColor=white">
+  </a>   
   &emsp;
   <a href="https://openjfx.io/" target="_blank">
     <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-53829E.svg?style=plastic&logo=OpenJDK&logoColor=white">
