@@ -37,6 +37,7 @@
 	        <a href="https://www.instagram.com/joel_13_12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="www.linkedin.com/in/joel-k-7718ab220/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.snapchat.com/add/joel_ko1312"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+<a href="https://t.me/Platofan23"><img src="https://img.shields.io/badge/Telegram-2197D5.svg?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 
