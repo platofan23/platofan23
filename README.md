@@ -37,6 +37,7 @@
 	        <a href="https://www.instagram.com/joel_13_12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.linkedin.com/in/joel-k-7718ab220/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.snapchat.com/add/joel_ko1312"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+<a href="https://join.skype.com/invite/Hjd8vK7aZ3j2"><img src="https://img.shields.io/badge/Skype-2197D5.svg?style=plastic&logo=Skype&logoColor=white" alt="Skype"/></a>
 <a href="https://t.me/Platofan23"><img src="https://img.shields.io/badge/Telegram-2197D5.svg?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
@@ -176,6 +177,10 @@
    <img alt="Apache Apache2" src="https://img.shields.io/badge/Apache%20Apache2-621424.svg?style=plastic&logo=Apache&logoColor=white">
   </a>
   &emsp;
+  <a href="https://kafka.apache.org/">
+   <img alt="Apache Kafka" img src="https://img.shields.io/badge/Apache%20Kafka-CDCBC9.svg?style=plastic&logo=Apache Kafka&logoColor=black">
+  </a>
+  &emsp;
   <a href="https://www.docker.com/">
    <img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue.svg?style=plastic&logo=docker&logoColor=white">
   </a>
@@ -206,10 +211,6 @@
   &emsp;
   <a href="https://www.home-assistant.io/">
    <img alt="Home Assistant" src="https://img.shields.io/badge/Home%20Assistant-53C0F1.svg?style=plastic&logo=Home Assistant&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://kafka.apache.org/">
-   <img alt="Apache Kafka" img src="https://img.shields.io/badge/Apache%20Kafka-CDCBC9.svg?style=plastic&logo=Apache Kafka&logoColor=black">
   </a>
   &emsp;
   <a href="https://www.markdownguide.org/">
@@ -303,5 +304,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 30/07/2022
+Last Edited on: 18/08/2022
 
