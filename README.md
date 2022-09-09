@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: Cooperate Computer Science at `DHBW Kalrsruhe` and `Fraport AG`
+- :school: Former Cooperate Computer Science at `DHBW Kalrsruhe` and now Junior Developer at `Fraport AG`
 - :technologist: Always open for `old` and `new` technologies. 
 - :computer: I love working with `Linux`, `Smarthome` and writing my own `little useful programs`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
@@ -304,5 +304,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 18/08/2022
+Last Edited on: 09/09/2022
 
