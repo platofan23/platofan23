@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Joel Koch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=21+Years+old;Cooperate+Computer+Science+Student;Currently+writing+bachelors+thesis;Working+at+Fraport+AG;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=21+Years+old;Former+Cooperate+Computer+Science+Student;Currently+learning+some+new+technologies;Working+as+junior+Developer+at+Fraport+AG;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 - :school: Former Cooperate Computer Science at `DHBW Karlsruhe` and now Junior Developer at `Fraport AG`
 - :technologist: Always open for `old` and `new` technologies. 
 - :computer: I love working with `Linux`, `Smarthome` and writing my own `little useful programs`.
-- :student: Done with my Bachelor of Sciene: `Computer Science` and currently as `Junior Developer`.
+- :student: Currently learning Angular, Springboot, Openapi and Cloud technologies (Microsoft Azur, Kubernetes, Flux, Jenkins, Helm and Terraform). 
 - :thinking: I'm currently `not` open for a new job
 - :nerd_face: Used to PRINCE2, Agile Working with SCRUM, Kanban etc
 
@@ -33,9 +33,9 @@
 	<a href="https://discord.com/users/449726825954803713"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=plastic&logo=Discord&logoColor=white" alt="Discord"/></a>
 	<a href="https://hub.docker.com/u/platofan23"><img src="https://img.shields.io/badge/Dockerhub-blue.svg?style=plastic&logo=docker&logoColor=white" alt="GitHub"/></a>
         <a href="https://github.com/platofan23"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="mailto:koch.joel@platofan23.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	        <a href="https://www.instagram.com/joel_13_12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/joel_13_12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.linkedin.com/in/joel-k-7718ab220/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:koch.joel@platofan23.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
 	<a href="https://www.snapchat.com/add/joel_ko1312"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 <a href="https://join.skype.com/invite/Hjd8vK7aZ3j2"><img src="https://img.shields.io/badge/Skype-2197D5.svg?style=plastic&logo=Skype&logoColor=white" alt="Skype"/></a>
 <a href="https://t.me/Platofan23"><img src="https://img.shields.io/badge/Telegram-2197D5.svg?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
