@@ -133,7 +133,11 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/xml/xml_whatis.asp">
-   <img alt="XML" img src="https://img.shields.io/badge/XML-005EAE.svg?style=plastic&logo=W3C&logoColor=white">
+   <img alt="XML" img src="https://img.shields.io/badge/XML-005EAE.svg?style=plastic&logo=XAML&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://yaml.org/">
+   <img alt="YAML" src="https://img.shields.io/badge/YAML-black?style=plastic&logo=XAML&logoColor=763C0D">
   </a>
 </p>
 
@@ -150,6 +154,10 @@
   &emsp;
   <a href="https://www.javatpoint.com/servlet-tutorial">
    <img alt="Java Servlets" src="https://img.shields.io/badge/Java%20Servlets-5281A0.svg?&style=plastic&logo=OpenJDK&logoColor=1169AE">
+  </a>
+  &emsp;
+  <a href="https://www.openapis.org/">
+   <img alt="Openapi" src="https://img.shields.io/badge/Openapis-%2343B02A.svg?&style=plastic&logo=OpenAPI Initiative&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.selenium.dev/">
@@ -179,6 +187,10 @@
   &emsp;
   <a href="https://kafka.apache.org/">
    <img alt="Apache Kafka" img src="https://img.shields.io/badge/Apache%20Kafka-CDCBC9.svg?style=plastic&logo=Apache Kafka&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://maven.apache.org/">
+   <img alt="Apache Maven" img src="https://img.shields.io/badge/Apache%20Maven-%23000000.svg?style=plastic&logo=Apache Maven&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.docker.com/">
@@ -217,20 +229,12 @@
    <img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
   </a>
   &emsp;
-  <a href="https://maven.apache.org/">
-   <img alt="Apache Maven" img src="https://img.shields.io/badge/Apache%20Maven-%23000000.svg?style=plastic&logo=Apache Maven&logoColor=white">
-  </a>
-  &emsp;
   <a href="http://www.squid-cache.org/">
    <img alt="SQUID%20Proxy" src="https://img.shields.io/badge/SQUID%20Proxy-4CB5D2?style=plastic&logo=TurboSquid&logoColor=white">
   </a>
   &emsp;
   <a href="https://stackoverflow.com/">
    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-323232?style=plastic&logo=stack-overflow&logoColor=763C0D">
-  </a>
-  &emsp;
-  <a href="https://yaml.org/">
-   <img alt="YAML" src="https://img.shields.io/badge/YAML-black?style=plastic&logo=XAML&logoColor=763C0D">
   </a>
 </p>
 
