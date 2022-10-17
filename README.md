@@ -38,7 +38,6 @@
 	<a href="mailto:koch.joel@platofan23.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
 	<a href="https://www.snapchat.com/add/joel_ko1312"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 <a href="https://join.skype.com/invite/Hjd8vK7aZ3j2"><img src="https://img.shields.io/badge/Skype-2197D5.svg?style=plastic&logo=Skype&logoColor=white" alt="Skype"/></a>
-<a href="https://t.me/Platofan23"><img src="https://img.shields.io/badge/Telegram-2197D5.svg?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 
