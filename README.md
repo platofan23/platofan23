@@ -189,6 +189,14 @@
   <a href="https://maven.apache.org/">
    <img alt="Apache Maven" img src="https://img.shields.io/badge/Apache%20Maven-%23000000.svg?style=plastic&logo=Apache Maven&logoColor=white">
   </a>
+   &emsp;
+  <a href="https://wiki.ubuntuusers.de/APT/">
+   <img alt="apt" src="https://img.shields.io/badge/apt-%23F05033.svg?style=plastic&logo=linux&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://wiki.ubuntuusers.de/apt/apt-get/"">
+   <img alt="apt-get" src="https://img.shields.io/badge/apt get-%23F05033.svg?style=plastic&logo=linux&logoColor=white">
+  </a>
   &emsp;
   <a href="https://www.docker.com/">
    <img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue.svg?style=plastic&logo=docker&logoColor=white">
@@ -224,6 +232,10 @@
   &emsp;
   <a href="https://www.markdownguide.org/">
    <img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.npmjs.com/">
+   <img alt="npm" src="https://img.shields.io/badge/npm-000000?style=plastic&logo=npm&logoColor=white">
   </a>
   &emsp;
   <a href="http://www.squid-cache.org/">
@@ -305,5 +317,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 17/10/2022
+Last Edited on: 19/10/2022
 
