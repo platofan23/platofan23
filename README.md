@@ -15,7 +15,7 @@
 - :school: Former Cooperate Computer Science at `DHBW Karlsruhe` and now Junior Developer at `Fraport AG`
 - :technologist: Always open for `old` and `new` technologies. 
 - :computer: I love working with `Linux`, `Smarthome` and writing my own `little useful programs`.
-- :student: Currently learning Angular, Springboot, Openapi and Cloud technologies (Microsoft Azur, Kubernetes, Flux, Jenkins, Helm and Terraform). 
+- :student: Currently learning myself IT-Security, Angular, Springboot, Openapi and Cloud technologies (Microsoft Azur, Kubernetes, Flux, Jenkins, Helm and Terraform). 
 - :thinking: I'm currently `not` open for a new job
 - :nerd_face: Used to PRINCE2, Agile Working with SCRUM, Kanban etc
 
@@ -317,5 +317,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 19/10/2022
+Last Edited on: 21/10/2022
 
