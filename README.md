@@ -129,7 +129,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/xml/xml_whatis.asp">
-   <img alt="XML" img src="https://img.shields.io/badge/XML-005EAE.svg?style=plastic&logo=XAML&logoColor=white">
+   <img alt="XML" img src="https://img.shields.io/badge/XML and XPath-005EAE.svg?style=plastic&logo=XAML&logoColor=white">
   </a>
    &emsp;
   <a href="https://yaml.org/">
