@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Joel Koch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Joel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Former+Cooperate+Computer+Science+Student;Currently+learning+some+new+technologies;Working+as+junior+Developer+at+Fraport+AG;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -33,7 +33,6 @@
 	<a href="https://discord.com/users/449726825954803713"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=plastic&logo=Discord&logoColor=white" alt="Discord"/></a>
 	<a href="https://hub.docker.com/u/platofan23"><img src="https://img.shields.io/badge/Dockerhub-blue.svg?style=plastic&logo=docker&logoColor=white" alt="GitHub"/></a>
         <a href="https://github.com/platofan23"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/joel-k-7718ab220/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:koch.joel@platofan23.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
 <a href="https://join.skype.com/invite/Hjd8vK7aZ3j2"><img src="https://img.shields.io/badge/Skype-2197D5.svg?style=plastic&logo=Skype&logoColor=white" alt="Skype"/></a>
 </p>
@@ -317,5 +316,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 30/10/2022
+Last Edited on: 30/11/2022
 
