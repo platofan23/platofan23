@@ -33,7 +33,7 @@
 	<a href="https://discord.com/users/449726825954803713"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=plastic&logo=Discord&logoColor=white" alt="Discord"/></a>
 	<a href="https://hub.docker.com/u/platofan23"><img src="https://img.shields.io/badge/Dockerhub-blue.svg?style=plastic&logo=docker&logoColor=white" alt="GitHub"/></a>
         <a href="https://github.com/platofan23"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="mailto:koch.joel@platofan23.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
+	<a href="mailto:private@platofan23sl.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
 <a href="https://join.skype.com/invite/Hjd8vK7aZ3j2"><img src="https://img.shields.io/badge/Skype-2197D5.svg?style=plastic&logo=Skype&logoColor=white" alt="Skype"/></a>
 </p>
 
@@ -316,5 +316,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platofan23&layout=compact&theme=algolia" alt="platofan23" /></a> </p>
 
 -----
-Last Edited on: 30/11/2022
+Last Edited on: 08/01/2023
 
